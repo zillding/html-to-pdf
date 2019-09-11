@@ -1,0 +1,16 @@
+{
+  "name": "html-to-pdf",
+  "version": "1.0.0",
+  "description": "html to pdf service",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "keywords": ["html", "to", "pdf"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "micro": "^9.3.4",
+    "puppeteer": "^1.19.0"
+  }
+}
